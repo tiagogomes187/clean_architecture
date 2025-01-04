@@ -1,6 +1,6 @@
 # Clean Architecture com Java
 
-# 🚀 Desenvolvimento de API com Arquitetura Limpa: Na Prática! 🛠️
+## 🚀 Desenvolvimento de API com Arquitetura Limpa: Na Prática! 🛠️
 
 Participei de um treinamento prático oferecido pelo canal Dailan Bueno | DevBueno, onde aprendi a implementar uma API do zero utilizando os princípios da Clean Architecture. Durante essa jornada, explorei como separar as responsabilidades de negócios das tecnológicas, garantindo um código limpo, modular e altamente testável.
 
